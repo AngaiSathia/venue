@@ -14,16 +14,30 @@ interface DropdownItem {
 
 const purposeDropdown: DropdownItem[] = [
   {
-    name: "Wedding",
+    name: "Wedding Package",
     description: "Arrangement for wedding"
   },
   {
-    name: "Other Purpose",
-    description: "Arrangement for seminars, meeting groups, gathering events"
+    name: "Cultural Events",
+    description: "Arrangement for cultural events"
   },
+  {
+    name: "Religious Lectures",
+    description: "Arrangement for religious lectures"
+  },
+  {
+    name: "Dining Hall",
+    description: "Arrangement for dining hall"
+  },
+  {
+    name: "Function Room",
+    description: "Arrangement for function room"
+  }
 ];
 
 export interface PurposeInputProps {
+  purposeInputState: string;
+  setPurposeInputState: any;
   desc?: string;
   className?: string;
   divHideVerticalLineClass?: string;
@@ -31,15 +45,15 @@ export interface PurposeInputProps {
 }
 
 const PurposeInput: FC<PurposeInputProps> = ({
+  purposeInputState,
+  setPurposeInputState,
   autoFocus = false,
   desc = "What are you booking the facility for?",
   className = "nc-flex-1.5",
   divHideVerticalLineClass = "left-10 -right-0.5",
 }) => {
-  const [purposeInputValue, setPurposeInputValue] = useState("Purpose");
-
   const handleSelectPurpose = (purposeValue: string) => {
-    setPurposeInputValue(purposeValue);
+    setPurposeInputState(purposeValue);
   };
   return (
     <Popover className={`flex relative ${className}`}>
@@ -60,7 +74,7 @@ const PurposeInput: FC<PurposeInputProps> = ({
                   />
                   <div className="flex-grow">
                     <span className="block xl:text-lg font-semibold">
-                      {purposeInputValue}
+                      {purposeInputState}
                     </span>
                     <span className="block mt-1 text-sm text-neutral-400 leading-none font-light">
                       {desc}
@@ -70,7 +84,7 @@ const PurposeInput: FC<PurposeInputProps> = ({
                   {open && (
                     <ClearDataButton
                       onClick={() => {
-                        setPurposeInputValue("Purpose");
+                        setPurposeInputState(purposeDropdown[0].name);
                       }}
                     />
                   )}
