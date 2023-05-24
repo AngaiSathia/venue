@@ -1,0 +1,5 @@
+{
+  "/page": "app/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(available-booking-listings)/listing-available-booking-map/page": "app/(available-booking-listings)/listing-available-booking-map/page.js"
+}

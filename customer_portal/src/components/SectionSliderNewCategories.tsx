@@ -12,6 +12,7 @@ import PrevBtn from "./PrevBtn";
 import NextBtn from "./NextBtn";
 import { variants } from "@/utils/animationVariants";
 import { useWindowSize } from "react-use";
+import HEBCardCategory3 from "@/components/HEBCardCategory3";
 
 export interface SectionSliderNewCategoriesProps {
   className?: string;
@@ -157,7 +158,7 @@ const SectionSliderNewCategories: FC<SectionSliderNewCategoriesProps> = ({
   const renderCard = (item: TaxonomyType) => {
     switch (categoryCardType) {
       case "card3":
-        return <CardCategory3 taxonomy={item} />;
+        return <HEBCardCategory3 taxonomy={item} />;
       case "card4":
         return <CardCategory4 taxonomy={item} />;
       case "card5":
