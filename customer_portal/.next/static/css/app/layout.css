@@ -5703,6 +5703,11 @@ select {
     padding: 2rem;
   }
 
+  .md\:px-10 {
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+  }
+
   .md\:px-3 {
     padding-left: 0.75rem;
     padding-right: 0.75rem;
@@ -5994,6 +5999,10 @@ select {
 
   .lg\:w-96 {
     width: 24rem;
+  }
+
+  .lg\:w-full {
+    width: 100%;
   }
 
   .lg\:max-w-3xl {
@@ -6424,6 +6433,10 @@ select {
 
   .xl\:w-\[780px\] {
     width: 780px;
+  }
+
+  .xl\:w-full {
+    width: 100%;
   }
 
   .xl\:max-w-2xl {

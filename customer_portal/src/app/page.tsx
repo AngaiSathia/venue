@@ -13,10 +13,6 @@ import SectionGridCategoryBox from "@/components/SectionGridCategoryBox";
 import SectionBecomeAnAuthor from "@/components/SectionBecomeAnAuthor";
 import SectionVideos from "@/components/SectionVideos";
 import SectionClientSay from "@/components/SectionClientSay";
-import MariammanTemplePic from "@/images/heb/sri mariamman temple.png"
-import SrinivasaTemplePic from "@/images/heb/sri srinivasa perumal temple.png"
-import SriSivanTemplePic from "@/images/heb/sri sivan temple.png"
-import SriVairavimadaKaliammanTemplePic from "@/images/heb/sri vairavimada kaliamman temple.png"
 
 const HEB_TEMPLE: TaxonomyType[] = [
   {
@@ -24,28 +20,28 @@ const HEB_TEMPLE: TaxonomyType[] = [
     href: "/listing-stay-map",
     name: "Sri Mariamman Temple",
     taxonomy: "category",
-    thumbnail: MariammanTemplePic,
+    thumbnail: "/images/heb/sri mariamman temple.png",
   },
   {
     id: "2",
     href: "/listing-stay-map",
     name: "Sri Srinivasa Perumal Temple",
     taxonomy: "category",
-    thumbnail: SrinivasaTemplePic,
+    thumbnail: "/images/heb/sri srinivasa perumal temple.png",
   },
   {
     id: "3",
     href: "/listing-stay-map",
     name: "Sri Sivan Temple",
     taxonomy: "category",
-    thumbnail: SriSivanTemplePic,
+    thumbnail: "/images/heb/sri sivan temple.png",
   },
   {
     id: "4",
     href: "/listing-stay-map",
     name: "Sri Vairavimada Kaliamman Temple",
     taxonomy: "category",
-    thumbnail: SriVairavimadaKaliammanTemplePic,
+    thumbnail: "/images/heb/sri vairavimada kaliamman temple.png",
   },
 ];
 
