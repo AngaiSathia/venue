@@ -14,4 +14,9 @@ export interface PropertyType {
 
 export interface ClassOfProperties extends PropertyType {}
 
+export interface HEBFilterType {
+  name: string;
+  description: string;
+}
+
 export type DateRage = [Date | null, Date | null];

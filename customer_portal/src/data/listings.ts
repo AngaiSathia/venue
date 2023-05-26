@@ -1,11 +1,12 @@
 import __stayListing from "./jsons/__stayListing.json";
 import __carsListing from "./jsons/__carsListing.json";
 import __experiencesListing from "./jsons/__experiencesListing.json";
+import __availableBookingsListing from "./jsons/__availableBookingListing.json";
 import {
   DEMO_STAY_CATEGORIES,
   DEMO_EXPERIENCES_CATEGORIES,
 } from "./taxonomies";
-import { CarDataType, ExperiencesDataType, StayDataType } from "./types";
+import { CarDataType, ExperiencesDataType, StayDataType, HEBVenueBookingDataType } from "./types";
 import { DEMO_AUTHORS } from "./authors";
 import car1 from "@/images/cars/1.png";
 import car2 from "@/images/cars/2.png";
@@ -60,6 +61,16 @@ const DEMO_STAY_LISTINGS = __stayListing.map((post, index): StayDataType => {
   };
 });
 
+const DEMO_AVAILABLE_BOOKING_LISTING = __availableBookingsListing.map(
+  (post, index): HEBVenueBookingDataType => {
+    return {
+      ...post,
+      id: `availableBookingsListing_${index}_`,
+      href: post.href as Route
+    }
+  }
+)
+
 const DEMO_EXPERIENCES_LISTINGS = __experiencesListing.map(
   (post, index): ExperiencesDataType => {
     //  ##########  GET CATEGORY BY CAT ID ######## //
@@ -97,4 +108,4 @@ const DEMO_CAR_LISTINGS = __carsListing.map((post, index): CarDataType => {
   };
 });
 
-export { DEMO_STAY_LISTINGS, DEMO_EXPERIENCES_LISTINGS, DEMO_CAR_LISTINGS };
+export { DEMO_STAY_LISTINGS, DEMO_EXPERIENCES_LISTINGS, DEMO_CAR_LISTINGS, DEMO_AVAILABLE_BOOKING_LISTING };

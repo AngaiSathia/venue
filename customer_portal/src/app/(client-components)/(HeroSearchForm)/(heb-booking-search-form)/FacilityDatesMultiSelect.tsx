@@ -2,12 +2,11 @@
 
 import React, { Fragment, useState, FC } from "react";
 import { Popover, Transition } from "@headlessui/react";
-import { CalendarIcon } from "@heroicons/react/24/outline";
 import { PathName } from "@/routers/types";
-import DatePicker, { DateObject, Calendar } from "react-multi-date-picker";
+import { DateObject, Calendar } from "react-multi-date-picker";
 import ClearDataButton from "../ClearDataButton";
 import ButtonSubmit from "../ButtonSubmit";
-import { ChevronLeftIcon, ChevronRightIcon } from "@heroicons/react/24/outline";
+import { CalendarIcon, ChevronLeftIcon, ChevronRightIcon } from "@heroicons/react/24/outline";
 import "./styles/purple.css"
 import "./styles/layout.css"
 
@@ -27,19 +26,12 @@ const FacilityDatesMultiSelect: FC<FacilityDatesMultiSelectProps> = ({
   purposeInputValue
 }) => {
   const today = new Date();
-  const weekDays = ["Su", "Mo", "Tu", "We", "Th", "Fr", "Sa"]
-  
-  const [values, setValues] = useState<[]>([])
+  const weekDays = ["Su", "Mo", "Tu", "We", "Th", "Fr", "Sa"];
 
   const [selectedDateList, setSelectedDateList] = useState<DateObject[]>([new DateObject(today)]);
 
-  const [unavailableDateList, setUnavailableDateList] = useState<String[]>([new Date("2023/05/25").toDateString(), new Date("2023/05/29").toDateString()]);
+  const [unavailableDateList, setUnavailableDateList] = useState<string[]>([new Date("2023/05/25").toDateString(), new Date("2023/05/29").toDateString()]);
 
-  // const onChangeDate = (dateSelected: DateObject[]) => {
-  //   let date = dateSelected[0].toDate();
-  //   var dateIndex = selectedDateList.indexOf(date);
-  //   dateIndex === -1 ? selectedDateList.push(date) : selectedDateList.splice(dateIndex, 1);
-  // };
   const onChangeDate = (dateSelected: DateObject[]) => {
     setSelectedDateList(dateSelected);
   }
@@ -85,7 +77,8 @@ const FacilityDatesMultiSelect: FC<FacilityDatesMultiSelectProps> = ({
           {/* BUTTON SUBMIT OF FORM */}
           {hasButtonSubmit && (
             <div className="p-2 xl:p-4">
-              <ButtonSubmit href={`${buttonSubmitHref}?purpose=${encodeURIComponent(purposeInputValue)}&selectedDates=${encodeURIComponent(selectedDateList.toString())}`} />
+              <ButtonSubmit href={`${buttonSubmitHref}/${encodeURIComponent(purposeInputValue.toLocaleLowerCase().replace(" ", "-"))}`+
+              `?selectedDates=${encodeURIComponent(selectedDateList.toString())}` as PathName} />
             </div>
           )}
 

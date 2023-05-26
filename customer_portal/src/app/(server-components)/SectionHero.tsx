@@ -1,8 +1,6 @@
 import React, { FC } from "react";
 import HeroSearchForm from "../(client-components)/(HeroSearchForm)/HeroSearchForm";
 import Image from "next/image";
-import ButtonPrimary from "@/shared/ButtonPrimary";
-import { Input } from "@chakra-ui/react";
 
 export interface SectionHeroProps {
   className?: string;
@@ -26,7 +24,7 @@ const SectionHero: FC<SectionHeroProps> = ({ className = "" }) => {
         <div className="flex-grow">
           <Image
             className="w-full"
-            src="/images/common/temple facility merge.png"
+            src="/images/heb/temple facility merge.png"
             alt="temple-facilities"
             width="800"
             height="700"
