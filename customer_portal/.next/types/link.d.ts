@@ -30,9 +30,29 @@ declare namespace __next_route_internal_types__ {
   type StaticRoutes = 
     | `/`
     | `/account-savelists`
+    | `/account-password`
     | `/account`
     | `/account-billing`
-    | `/account-password`
+    | `/listing-available-booking-map/wedding-package`
+    | `/listing-experiences`
+    | `/listing-experiences-map`
+    | `/home-2`
+    | `/home-3`
+    | `/listing-car-detail`
+    | `/listing-stay-detail`
+    | `/listing-experiences-detail`
+    | `/listing-real-estate-map`
+    | `/listing-real-estate`
+    | `/about`
+    | `/api/hello`
+    | `/author`
+    | `/checkout`
+    | `/contact`
+    | `/hello`
+    | `/login`
+    | `/pay-done`
+    | `/signup`
+    | `/subscription`
   type DynamicRoutes<T extends string = string> = never
 
   type RouteImpl<T> = 

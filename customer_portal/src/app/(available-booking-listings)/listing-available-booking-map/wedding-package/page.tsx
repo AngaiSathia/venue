@@ -60,7 +60,7 @@ const ListingAvailableBookingMapPage: FC<ListingAvailableBookingMapProps> = ({})
             <div className="listingSection_wrap">
                 {/* listing */}
                 <div className="divide-y divide-neutral-100 dark:divide-neutral-800">
-                    <SectionGridFilterCard numberOfResults={10} purpose="wedding package" availableDates={selectedDates}/>
+                    <SectionGridFilterCard purpose="wedding package" availableDates={selectedDates}/>
                 </div>
             </div>
         )

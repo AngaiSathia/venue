@@ -35,21 +35,6 @@ const defaultTempleFilters: HEBFilterType[] = [
   },
 ];
 
-const defaultTimeOfdays = [
-  {
-    name: "AM Session",
-    value: "AM",
-    description: "Start before 12pm",
-    checked: false
-  },
-  {
-    name: "PM Session",
-    value: "PM",
-    description: "Start after 12pm",
-    checked: false
-  },
-];
-
 const TabFilters: FC<TabFilterProps> = ({
   dynamicAvailableDates,
   setReturnTempleFilter,

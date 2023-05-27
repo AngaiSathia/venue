@@ -1,6 +1,5 @@
 import React, { FC } from "react";
 import GallerySlider from "@/components/GallerySlider";
-import { DEMO_AVAILABLE_BOOKING_LISTING } from "@/data/listings";
 import { HEBVenueBookingDataType } from "@/data/types";
 import Link from "next/link";
 import { MapPinIcon } from "@heroicons/react/24/outline";
@@ -8,16 +7,14 @@ import { MapPinIcon } from "@heroicons/react/24/outline";
 export interface HEBVenueBookingCardProps {
   className?: string;
   ratioClass?: string;
-  data?: HEBVenueBookingDataType;
+  data: HEBVenueBookingDataType;
   size?: "default" | "small";
 }
-
-const DEMO_DATA: HEBVenueBookingDataType = DEMO_AVAILABLE_BOOKING_LISTING[0];
 
 const HEBVenueBookingCard: FC<HEBVenueBookingCardProps> = ({
   size = "default",
   className = "",
-  data = DEMO_DATA,
+  data,
   ratioClass = "aspect-w-3 aspect-h-3",
 }) => {
   const {
