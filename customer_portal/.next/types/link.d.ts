@@ -29,20 +29,20 @@ declare namespace __next_route_internal_types__ {
 
   type StaticRoutes = 
     | `/`
-    | `/account-savelists`
-    | `/account-password`
     | `/account`
     | `/account-billing`
+    | `/account-password`
+    | `/account-savelists`
     | `/listing-available-booking-map/wedding-package`
     | `/listing-experiences`
     | `/listing-experiences-map`
     | `/home-2`
     | `/home-3`
+    | `/listing-experiences-detail`
     | `/listing-car-detail`
     | `/listing-stay-detail`
-    | `/listing-experiences-detail`
-    | `/listing-real-estate-map`
     | `/listing-real-estate`
+    | `/listing-real-estate-map`
     | `/about`
     | `/api/hello`
     | `/author`
