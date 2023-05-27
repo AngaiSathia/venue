@@ -784,350 +784,12 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./src/images/avatars/Image-10.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/avatars/Image-10.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/avatars/Image-10.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/avatars/Image-10.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/avatars/Image-11.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/avatars/Image-11.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/avatars/Image-11.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/avatars/Image-11.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/avatars/Image-12.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/avatars/Image-12.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/avatars/Image-12.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/avatars/Image-12.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/avatars/Image-13.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/avatars/Image-13.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/avatars/Image-13.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/avatars/Image-13.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/avatars/Image-14.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/avatars/Image-14.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/avatars/Image-14.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/avatars/Image-14.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/avatars/Image-15.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/avatars/Image-15.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/avatars/Image-15.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/avatars/Image-15.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/avatars/Image-16.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/avatars/Image-16.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/avatars/Image-16.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/avatars/Image-16.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/avatars/Image-17.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/avatars/Image-17.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/avatars/Image-17.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/avatars/Image-17.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/avatars/Image-18.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/avatars/Image-18.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/avatars/Image-18.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/avatars/Image-18.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/avatars/Image-19.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/avatars/Image-19.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/avatars/Image-19.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/avatars/Image-19.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/avatars/Image-2.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/avatars/Image-2.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/avatars/Image-2.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/avatars/Image-2.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/avatars/Image-20.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/avatars/Image-20.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/avatars/Image-20.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/avatars/Image-20.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/avatars/Image-3.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/avatars/Image-3.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/avatars/Image-3.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/avatars/Image-3.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
     "(app-client)/./src/images/avatars/Image-4.png": {
       "*": {
         "id": "(sc_client)/./src/images/avatars/Image-4.png",
         "name": "*",
         "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -1135,7 +797,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/images/avatars/Image-4.png",
         "name": "",
         "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -1143,7 +805,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/images/avatars/Image-4.png",
         "name": "default",
         "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       }
@@ -1153,7 +815,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/images/avatars/Image-5.png",
         "name": "*",
         "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -1161,7 +823,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/images/avatars/Image-5.png",
         "name": "",
         "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -1169,7 +831,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/images/avatars/Image-5.png",
         "name": "default",
         "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       }
@@ -1179,7 +841,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/images/avatars/Image-6.png",
         "name": "*",
         "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -1187,1016 +849,12 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/images/avatars/Image-6.png",
         "name": "",
         "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
       "default": {
         "id": "(sc_client)/./src/images/avatars/Image-6.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/avatars/Image-7.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/avatars/Image-7.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/avatars/Image-7.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/avatars/Image-7.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/avatars/Image-8.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/avatars/Image-8.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/avatars/Image-8.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/avatars/Image-8.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/avatars/Image-9.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/avatars/Image-9.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/avatars/Image-9.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/avatars/Image-9.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/cars/1.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/cars/1.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/cars/1.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/cars/1.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/cars/10.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/cars/10.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/cars/10.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/cars/10.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/cars/11.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/cars/11.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/cars/11.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/cars/11.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/cars/12.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/cars/12.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/cars/12.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/cars/12.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/cars/13.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/cars/13.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/cars/13.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/cars/13.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/cars/14.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/cars/14.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/cars/14.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/cars/14.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/cars/15.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/cars/15.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/cars/15.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/cars/15.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/cars/16.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/cars/16.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/cars/16.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/cars/16.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/cars/2.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/cars/2.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/cars/2.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/cars/2.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/cars/3.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/cars/3.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/cars/3.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/cars/3.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/cars/4.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/cars/4.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/cars/4.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/cars/4.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/cars/5.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/cars/5.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/cars/5.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/cars/5.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/cars/6.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/cars/6.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/cars/6.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/cars/6.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/cars/7.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/cars/7.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/cars/7.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/cars/7.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/cars/8.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/cars/8.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/cars/8.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/cars/8.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/images/cars/9.png": {
-      "*": {
-        "id": "(sc_client)/./src/images/cars/9.png",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/images/cars/9.png",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/images/cars/9.png",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/image.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
-        "name": "*",
-        "chunks": [
-          "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
-        "name": "",
-        "chunks": [
-          "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
-        "name": "default",
-        "chunks": [
-          "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/link.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "*",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "default",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/shared/lib/head.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "*",
-        "chunks": [
-          "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "",
-        "chunks": [
-          "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "default",
-        "chunks": [
-          "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
-        ],
-        "async": false
-      },
-      "defaultHead": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "defaultHead",
-        "chunks": [
-          "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
-        ],
-        "async": false
-      },
-      "charSet": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "charSet",
-        "chunks": [
-          "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
-        ],
-        "async": false
-      },
-      "name": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "name",
-        "chunks": [
-          "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
-        ],
-        "async": false
-      },
-      "content": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "content",
-        "chunks": [
-          "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
-        ],
-        "async": false
-      },
-      "\"title\"": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "\"title\"",
-        "chunks": [
-          "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
-        ],
-        "async": false
-      },
-      "\"base\"": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "\"base\"",
-        "chunks": [
-          "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
-        ],
-        "async": false
-      },
-      "\"meta\"": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "\"meta\"",
-        "chunks": [
-          "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
-        ],
-        "async": false
-      },
-      "TODO(prateekbh@)": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "TODO(prateekbh@)",
-        "chunks": [
-          "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
-        ],
-        "async": false
-      },
-      "\"https": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "\"https",
-        "chunks": [
-          "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
-        ],
-        "async": false
-      },
-      "here": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "here",
-        "chunks": [
-          "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
-        ],
-        "async": false
-      },
-      "https": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "https",
-        "chunks": [
-          "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
-        ],
-        "async": false
-      },
-      "reduceComponentsToState": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "reduceComponentsToState",
-        "chunks": [
-          "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
-        ],
-        "async": false
-      },
-      "headManager": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "headManager",
-        "chunks": [
-          "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
-        ],
-        "async": false
-      },
-      "inAmpMode": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "inAmpMode",
-        "chunks": [
-          "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
-        ],
-        "async": false
-      },
-      "value": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "value",
-        "chunks": [
-          "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/app/(client-components)/(HeroSearchForm)/(heb-booking-search-form)/FacilityDatesMultiSelect.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/app/(client-components)/(HeroSearchForm)/(heb-booking-search-form)/FacilityDatesMultiSelect.tsx",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/app/(client-components)/(HeroSearchForm)/(heb-booking-search-form)/FacilityDatesMultiSelect.tsx",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/app/(client-components)/(HeroSearchForm)/(heb-booking-search-form)/FacilityDatesMultiSelect.tsx",
-        "name": "default",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/app/(client-components)/(HeroSearchForm)/ClearDataButton.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/app/(client-components)/(HeroSearchForm)/ClearDataButton.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/app/(client-components)/(HeroSearchForm)/ClearDataButton.tsx",
-        "name": "",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/app/(client-components)/(HeroSearchForm)/ClearDataButton.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/app/(client-components)/(HeroSearchForm)/HeroSearchForm.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/app/(client-components)/(HeroSearchForm)/HeroSearchForm.tsx",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/app/(client-components)/(HeroSearchForm)/HeroSearchForm.tsx",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/app/(client-components)/(HeroSearchForm)/HeroSearchForm.tsx",
-        "name": "default",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/app/(client-components)/(HeroSearchForm)/PurposeInput.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/app/(client-components)/(HeroSearchForm)/PurposeInput.tsx",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/app/(client-components)/(HeroSearchForm)/PurposeInput.tsx",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/app/(client-components)/(HeroSearchForm)/PurposeInput.tsx",
-        "name": "default",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/BtnLikeIcon.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/BtnLikeIcon.tsx",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/BtnLikeIcon.tsx",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/BtnLikeIcon.tsx",
-        "name": "default",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/GallerySlider.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/GallerySlider.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/GallerySlider.tsx",
-        "name": "",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/GallerySlider.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/HeaderFilter.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/HeaderFilter.tsx",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/HeaderFilter.tsx",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/HeaderFilter.tsx",
-        "name": "default",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/SectionSliderNewCategories.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/SectionSliderNewCategories.tsx",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/SectionSliderNewCategories.tsx",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/SectionSliderNewCategories.tsx",
-        "name": "default",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/SectionVideos.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/SectionVideos.tsx",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/SectionVideos.tsx",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/SectionVideos.tsx",
-        "name": "default",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/shared/Button.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/shared/Button.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/shared/Button.tsx",
-        "name": "",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/shared/Button.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/shared/ButtonSecondary.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/shared/ButtonSecondary.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/shared/ButtonSecondary.tsx",
-        "name": "",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/shared/ButtonSecondary.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/shared/NavItem.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/shared/NavItem.tsx",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/shared/NavItem.tsx",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/shared/NavItem.tsx",
         "name": "default",
         "chunks": [
           "app/page:static/chunks/app/page.js"
@@ -2252,6 +910,204 @@ self.__RSC_MANIFEST={
         "name": "default",
         "chunks": [
           "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/image.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "*",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "default",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "default",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/shared/lib/head.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "*",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "default",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "defaultHead": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "defaultHead",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "charSet": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "charSet",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "name": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "name",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "content": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "content",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "\"title\"": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "\"title\"",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "\"base\"": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "\"base\"",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "\"meta\"": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "\"meta\"",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "TODO(prateekbh@)": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "TODO(prateekbh@)",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "\"https": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "\"https",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "here": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "here",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "https": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "https",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "reduceComponentsToState": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "reduceComponentsToState",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "headManager": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "headManager",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "inAmpMode": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "inAmpMode",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "value": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "value",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
         ],
         "async": false
       }
@@ -3114,6 +1970,32 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
+    "(app-client)/./src/shared/Button.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/shared/Button.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/shared/Button.tsx",
+        "name": "",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/shared/Button.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      }
+    },
     "(app-client)/./src/shared/Checkbox.tsx": {
       "*": {
         "id": "(sc_client)/./src/shared/Checkbox.tsx",
@@ -3244,6 +2126,838 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
+    "(app-client)/./src/images/avatars/Image-10.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/avatars/Image-10.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/avatars/Image-10.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/avatars/Image-10.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/avatars/Image-11.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/avatars/Image-11.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/avatars/Image-11.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/avatars/Image-11.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/avatars/Image-12.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/avatars/Image-12.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/avatars/Image-12.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/avatars/Image-12.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/avatars/Image-13.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/avatars/Image-13.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/avatars/Image-13.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/avatars/Image-13.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/avatars/Image-14.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/avatars/Image-14.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/avatars/Image-14.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/avatars/Image-14.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/avatars/Image-15.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/avatars/Image-15.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/avatars/Image-15.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/avatars/Image-15.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/avatars/Image-16.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/avatars/Image-16.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/avatars/Image-16.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/avatars/Image-16.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/avatars/Image-17.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/avatars/Image-17.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/avatars/Image-17.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/avatars/Image-17.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/avatars/Image-18.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/avatars/Image-18.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/avatars/Image-18.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/avatars/Image-18.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/avatars/Image-19.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/avatars/Image-19.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/avatars/Image-19.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/avatars/Image-19.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/avatars/Image-2.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/avatars/Image-2.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/avatars/Image-2.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/avatars/Image-2.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/avatars/Image-20.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/avatars/Image-20.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/avatars/Image-20.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/avatars/Image-20.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/avatars/Image-3.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/avatars/Image-3.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/avatars/Image-3.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/avatars/Image-3.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/avatars/Image-7.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/avatars/Image-7.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/avatars/Image-7.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/avatars/Image-7.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/avatars/Image-8.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/avatars/Image-8.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/avatars/Image-8.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/avatars/Image-8.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/avatars/Image-9.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/avatars/Image-9.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/avatars/Image-9.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/avatars/Image-9.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/cars/1.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/cars/1.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/cars/1.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/cars/1.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/cars/10.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/cars/10.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/cars/10.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/cars/10.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/cars/11.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/cars/11.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/cars/11.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/cars/11.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/cars/12.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/cars/12.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/cars/12.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/cars/12.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/cars/13.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/cars/13.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/cars/13.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/cars/13.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/cars/14.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/cars/14.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/cars/14.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/cars/14.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/cars/15.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/cars/15.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/cars/15.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/cars/15.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/cars/16.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/cars/16.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/cars/16.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/cars/16.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/cars/2.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/cars/2.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/cars/2.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/cars/2.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/cars/3.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/cars/3.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/cars/3.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/cars/3.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/cars/4.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/cars/4.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/cars/4.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/cars/4.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/cars/5.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/cars/5.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/cars/5.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/cars/5.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/cars/6.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/cars/6.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/cars/6.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/cars/6.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/cars/7.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/cars/7.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/cars/7.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/cars/7.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/cars/8.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/cars/8.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/cars/8.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/cars/8.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/images/cars/9.png": {
+      "*": {
+        "id": "(sc_client)/./src/images/cars/9.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/images/cars/9.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/images/cars/9.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
     "(app-client)/./src/app/(available-booking-listings)/TabFilters.tsx": {
       "*": {
         "id": "(sc_client)/./src/app/(available-booking-listings)/TabFilters.tsx",
@@ -3292,6 +3006,292 @@ self.__RSC_MANIFEST={
         "name": "default",
         "chunks": [
           "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/GallerySlider.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/GallerySlider.tsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/GallerySlider.tsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/GallerySlider.tsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/(client-components)/(HeroSearchForm)/(heb-booking-search-form)/FacilityDatesMultiSelect.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/(client-components)/(HeroSearchForm)/(heb-booking-search-form)/FacilityDatesMultiSelect.tsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/(client-components)/(HeroSearchForm)/(heb-booking-search-form)/FacilityDatesMultiSelect.tsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/(client-components)/(HeroSearchForm)/(heb-booking-search-form)/FacilityDatesMultiSelect.tsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/(client-components)/(HeroSearchForm)/ClearDataButton.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/(client-components)/(HeroSearchForm)/ClearDataButton.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/(client-components)/(HeroSearchForm)/ClearDataButton.tsx",
+        "name": "",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/(client-components)/(HeroSearchForm)/ClearDataButton.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/(client-components)/(HeroSearchForm)/HeroSearchForm.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/(client-components)/(HeroSearchForm)/HeroSearchForm.tsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/(client-components)/(HeroSearchForm)/HeroSearchForm.tsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/(client-components)/(HeroSearchForm)/HeroSearchForm.tsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/(client-components)/(HeroSearchForm)/PurposeInput.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/(client-components)/(HeroSearchForm)/PurposeInput.tsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/(client-components)/(HeroSearchForm)/PurposeInput.tsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/(client-components)/(HeroSearchForm)/PurposeInput.tsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/BtnLikeIcon.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/BtnLikeIcon.tsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/BtnLikeIcon.tsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/BtnLikeIcon.tsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/HeaderFilter.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/HeaderFilter.tsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/HeaderFilter.tsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/HeaderFilter.tsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/SectionSliderNewCategories.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/SectionSliderNewCategories.tsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/SectionSliderNewCategories.tsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/SectionSliderNewCategories.tsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/SectionVideos.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/SectionVideos.tsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/SectionVideos.tsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/SectionVideos.tsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/shared/ButtonSecondary.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/shared/ButtonSecondary.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/shared/ButtonSecondary.tsx",
+        "name": "",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/shared/ButtonSecondary.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/shared/NavItem.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/shared/NavItem.tsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/shared/NavItem.tsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/shared/NavItem.tsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       }
@@ -3464,136 +3464,6 @@ self.__RSC_MANIFEST={
         "name": "default",
         "chunks": [
           "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/app/(listing-detail)/SectionDateRange.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/app/(listing-detail)/SectionDateRange.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/app/(listing-detail)/SectionDateRange.tsx",
-        "name": "",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/app/(listing-detail)/SectionDateRange.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/app/(listing-detail)/listing-experiences-detail/GuestsInput.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/app/(listing-detail)/listing-experiences-detail/GuestsInput.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/app/(listing-detail)/listing-experiences-detail/GuestsInput.tsx",
-        "name": "",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/app/(listing-detail)/listing-experiences-detail/GuestsInput.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/app/(listing-detail)/listing-experiences-detail/StayDatesRangeInput.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/app/(listing-detail)/listing-experiences-detail/StayDatesRangeInput.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/app/(listing-detail)/listing-experiences-detail/StayDatesRangeInput.tsx",
-        "name": "",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/app/(listing-detail)/listing-experiences-detail/StayDatesRangeInput.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/app/(listing-detail)/listing-experiences-detail/page.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/app/(listing-detail)/listing-experiences-detail/page.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/app/(listing-detail)/listing-experiences-detail/page.tsx",
-        "name": "",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/app/(listing-detail)/listing-experiences-detail/page.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/FiveStartIconForRate.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/FiveStartIconForRate.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/FiveStartIconForRate.tsx",
-        "name": "",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/FiveStartIconForRate.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
         ],
         "async": false
       }
@@ -3831,15 +3701,145 @@ self.__RSC_MANIFEST={
         ],
         "async": false
       }
+    },
+    "(app-client)/./src/app/(listing-detail)/SectionDateRange.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/(listing-detail)/SectionDateRange.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/(listing-detail)/SectionDateRange.tsx",
+        "name": "",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/(listing-detail)/SectionDateRange.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/(listing-detail)/listing-experiences-detail/GuestsInput.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/(listing-detail)/listing-experiences-detail/GuestsInput.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/(listing-detail)/listing-experiences-detail/GuestsInput.tsx",
+        "name": "",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/(listing-detail)/listing-experiences-detail/GuestsInput.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/(listing-detail)/listing-experiences-detail/StayDatesRangeInput.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/(listing-detail)/listing-experiences-detail/StayDatesRangeInput.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/(listing-detail)/listing-experiences-detail/StayDatesRangeInput.tsx",
+        "name": "",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/(listing-detail)/listing-experiences-detail/StayDatesRangeInput.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/(listing-detail)/listing-experiences-detail/page.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/(listing-detail)/listing-experiences-detail/page.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/(listing-detail)/listing-experiences-detail/page.tsx",
+        "name": "",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/(listing-detail)/listing-experiences-detail/page.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/FiveStartIconForRate.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/FiveStartIconForRate.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/FiveStartIconForRate.tsx",
+        "name": "",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/FiveStartIconForRate.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+        ],
+        "async": false
+      }
     }
   },
   "edgeSSRModuleMapping": {},
   "cssFiles": {
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\page": [
-      "static/css/app/page.css"
-    ],
     "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\layout": [
       "static/css/app/layout.css"
+    ],
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\page": [
+      "static/css/app/page.css"
     ],
     "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(available-booking-listings)\\layout": [
       "static/css/app/(available-booking-listings)/layout.css"
@@ -5577,18 +5577,39 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\(heb-booking-search-form)\\styles\\layout.css#": {
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\node_modules\\rc-slider\\assets\\index.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
-        "static/css/app/page.css"
+        "static/css/app/layout.css"
       ]
     },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\(heb-booking-search-form)\\styles\\purple.css#": {
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\globals.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
-        "static/css/app/page.css"
+        "static/css/app/layout.css"
+      ]
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\fonts\\line-awesome-1.3.0\\css\\line-awesome.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\styles\\index.scss#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Poppins\",\"arguments\":[{\"subsets\":[\"latin\"],\"display\":\"swap\",\"weight\":[\"300\",\"400\",\"500\",\"600\",\"700\"]}],\"variableName\":\"poppins\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
       ]
     },
     "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-1.png": {
@@ -5615,323 +5636,11 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-10.png": {
-      "id": "(app-client)/./src/images/avatars/Image-10.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-10.png#": {
-      "id": "(app-client)/./src/images/avatars/Image-10.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-10.png#default": {
-      "id": "(app-client)/./src/images/avatars/Image-10.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-11.png": {
-      "id": "(app-client)/./src/images/avatars/Image-11.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-11.png#": {
-      "id": "(app-client)/./src/images/avatars/Image-11.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-11.png#default": {
-      "id": "(app-client)/./src/images/avatars/Image-11.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-12.png": {
-      "id": "(app-client)/./src/images/avatars/Image-12.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-12.png#": {
-      "id": "(app-client)/./src/images/avatars/Image-12.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-12.png#default": {
-      "id": "(app-client)/./src/images/avatars/Image-12.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-13.png": {
-      "id": "(app-client)/./src/images/avatars/Image-13.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-13.png#": {
-      "id": "(app-client)/./src/images/avatars/Image-13.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-13.png#default": {
-      "id": "(app-client)/./src/images/avatars/Image-13.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-14.png": {
-      "id": "(app-client)/./src/images/avatars/Image-14.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-14.png#": {
-      "id": "(app-client)/./src/images/avatars/Image-14.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-14.png#default": {
-      "id": "(app-client)/./src/images/avatars/Image-14.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-15.png": {
-      "id": "(app-client)/./src/images/avatars/Image-15.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-15.png#": {
-      "id": "(app-client)/./src/images/avatars/Image-15.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-15.png#default": {
-      "id": "(app-client)/./src/images/avatars/Image-15.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-16.png": {
-      "id": "(app-client)/./src/images/avatars/Image-16.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-16.png#": {
-      "id": "(app-client)/./src/images/avatars/Image-16.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-16.png#default": {
-      "id": "(app-client)/./src/images/avatars/Image-16.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-17.png": {
-      "id": "(app-client)/./src/images/avatars/Image-17.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-17.png#": {
-      "id": "(app-client)/./src/images/avatars/Image-17.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-17.png#default": {
-      "id": "(app-client)/./src/images/avatars/Image-17.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-18.png": {
-      "id": "(app-client)/./src/images/avatars/Image-18.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-18.png#": {
-      "id": "(app-client)/./src/images/avatars/Image-18.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-18.png#default": {
-      "id": "(app-client)/./src/images/avatars/Image-18.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-19.png": {
-      "id": "(app-client)/./src/images/avatars/Image-19.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-19.png#": {
-      "id": "(app-client)/./src/images/avatars/Image-19.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-19.png#default": {
-      "id": "(app-client)/./src/images/avatars/Image-19.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-2.png": {
-      "id": "(app-client)/./src/images/avatars/Image-2.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-2.png#": {
-      "id": "(app-client)/./src/images/avatars/Image-2.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-2.png#default": {
-      "id": "(app-client)/./src/images/avatars/Image-2.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-20.png": {
-      "id": "(app-client)/./src/images/avatars/Image-20.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-20.png#": {
-      "id": "(app-client)/./src/images/avatars/Image-20.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-20.png#default": {
-      "id": "(app-client)/./src/images/avatars/Image-20.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-3.png": {
-      "id": "(app-client)/./src/images/avatars/Image-3.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-3.png#": {
-      "id": "(app-client)/./src/images/avatars/Image-3.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-3.png#default": {
-      "id": "(app-client)/./src/images/avatars/Image-3.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
     "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-4.png": {
       "id": "(app-client)/./src/images/avatars/Image-4.png",
       "name": "*",
       "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
@@ -5939,7 +5648,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/images/avatars/Image-4.png",
       "name": "",
       "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
@@ -5947,7 +5656,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/images/avatars/Image-4.png",
       "name": "default",
       "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
@@ -5955,7 +5664,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/images/avatars/Image-5.png",
       "name": "*",
       "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
@@ -5963,7 +5672,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/images/avatars/Image-5.png",
       "name": "",
       "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
@@ -5971,7 +5680,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/images/avatars/Image-5.png",
       "name": "default",
       "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
@@ -5979,7 +5688,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/images/avatars/Image-6.png",
       "name": "*",
       "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
@@ -5987,7 +5696,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/images/avatars/Image-6.png",
       "name": "",
       "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
@@ -5995,463 +5704,55 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/images/avatars/Image-6.png",
       "name": "default",
       "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-7.png": {
-      "id": "(app-client)/./src/images/avatars/Image-7.png",
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\logo-light.png": {
+      "id": "(app-client)/./src/images/logo-light.png",
       "name": "*",
       "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-7.png#": {
-      "id": "(app-client)/./src/images/avatars/Image-7.png",
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\logo-light.png#": {
+      "id": "(app-client)/./src/images/logo-light.png",
       "name": "",
       "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-7.png#default": {
-      "id": "(app-client)/./src/images/avatars/Image-7.png",
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\logo-light.png#default": {
+      "id": "(app-client)/./src/images/logo-light.png",
       "name": "default",
       "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-8.png": {
-      "id": "(app-client)/./src/images/avatars/Image-8.png",
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\logo.png": {
+      "id": "(app-client)/./src/images/logo.png",
       "name": "*",
       "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-8.png#": {
-      "id": "(app-client)/./src/images/avatars/Image-8.png",
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\logo.png#": {
+      "id": "(app-client)/./src/images/logo.png",
       "name": "",
       "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-8.png#default": {
-      "id": "(app-client)/./src/images/avatars/Image-8.png",
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\logo.png#default": {
+      "id": "(app-client)/./src/images/logo.png",
       "name": "default",
       "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-9.png": {
-      "id": "(app-client)/./src/images/avatars/Image-9.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-9.png#": {
-      "id": "(app-client)/./src/images/avatars/Image-9.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-9.png#default": {
-      "id": "(app-client)/./src/images/avatars/Image-9.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\1.png": {
-      "id": "(app-client)/./src/images/cars/1.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\1.png#": {
-      "id": "(app-client)/./src/images/cars/1.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\1.png#default": {
-      "id": "(app-client)/./src/images/cars/1.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\10.png": {
-      "id": "(app-client)/./src/images/cars/10.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\10.png#": {
-      "id": "(app-client)/./src/images/cars/10.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\10.png#default": {
-      "id": "(app-client)/./src/images/cars/10.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\11.png": {
-      "id": "(app-client)/./src/images/cars/11.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\11.png#": {
-      "id": "(app-client)/./src/images/cars/11.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\11.png#default": {
-      "id": "(app-client)/./src/images/cars/11.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\12.png": {
-      "id": "(app-client)/./src/images/cars/12.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\12.png#": {
-      "id": "(app-client)/./src/images/cars/12.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\12.png#default": {
-      "id": "(app-client)/./src/images/cars/12.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\13.png": {
-      "id": "(app-client)/./src/images/cars/13.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\13.png#": {
-      "id": "(app-client)/./src/images/cars/13.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\13.png#default": {
-      "id": "(app-client)/./src/images/cars/13.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\14.png": {
-      "id": "(app-client)/./src/images/cars/14.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\14.png#": {
-      "id": "(app-client)/./src/images/cars/14.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\14.png#default": {
-      "id": "(app-client)/./src/images/cars/14.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\15.png": {
-      "id": "(app-client)/./src/images/cars/15.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\15.png#": {
-      "id": "(app-client)/./src/images/cars/15.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\15.png#default": {
-      "id": "(app-client)/./src/images/cars/15.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\16.png": {
-      "id": "(app-client)/./src/images/cars/16.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\16.png#": {
-      "id": "(app-client)/./src/images/cars/16.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\16.png#default": {
-      "id": "(app-client)/./src/images/cars/16.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\2.png": {
-      "id": "(app-client)/./src/images/cars/2.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\2.png#": {
-      "id": "(app-client)/./src/images/cars/2.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\2.png#default": {
-      "id": "(app-client)/./src/images/cars/2.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\3.png": {
-      "id": "(app-client)/./src/images/cars/3.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\3.png#": {
-      "id": "(app-client)/./src/images/cars/3.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\3.png#default": {
-      "id": "(app-client)/./src/images/cars/3.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\4.png": {
-      "id": "(app-client)/./src/images/cars/4.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\4.png#": {
-      "id": "(app-client)/./src/images/cars/4.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\4.png#default": {
-      "id": "(app-client)/./src/images/cars/4.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\5.png": {
-      "id": "(app-client)/./src/images/cars/5.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\5.png#": {
-      "id": "(app-client)/./src/images/cars/5.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\5.png#default": {
-      "id": "(app-client)/./src/images/cars/5.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\6.png": {
-      "id": "(app-client)/./src/images/cars/6.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\6.png#": {
-      "id": "(app-client)/./src/images/cars/6.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\6.png#default": {
-      "id": "(app-client)/./src/images/cars/6.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\7.png": {
-      "id": "(app-client)/./src/images/cars/7.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\7.png#": {
-      "id": "(app-client)/./src/images/cars/7.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\7.png#default": {
-      "id": "(app-client)/./src/images/cars/7.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\8.png": {
-      "id": "(app-client)/./src/images/cars/8.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\8.png#": {
-      "id": "(app-client)/./src/images/cars/8.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\8.png#default": {
-      "id": "(app-client)/./src/images/cars/8.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\9.png": {
-      "id": "(app-client)/./src/images/cars/9.png",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\9.png#": {
-      "id": "(app-client)/./src/images/cars/9.png",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\9.png#default": {
-      "id": "(app-client)/./src/images/cars/9.png",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
@@ -6459,7 +5760,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6467,7 +5768,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6475,7 +5776,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6483,7 +5784,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6491,7 +5792,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6499,7 +5800,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6555,7 +5856,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6563,7 +5864,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6571,7 +5872,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6579,7 +5880,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6587,7 +5888,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6595,7 +5896,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6603,7 +5904,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6611,7 +5912,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6619,7 +5920,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "charSet",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6627,7 +5928,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "charSet",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6635,7 +5936,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "name",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6643,7 +5944,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "name",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6651,7 +5952,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "content",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6659,7 +5960,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "content",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6667,7 +5968,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"title\"",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6675,7 +5976,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"title\"",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6683,7 +5984,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"base\"",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6691,7 +5992,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"base\"",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6699,7 +6000,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"meta\"",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6707,7 +6008,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"meta\"",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6715,7 +6016,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "TODO(prateekbh@)",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6723,7 +6024,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "TODO(prateekbh@)",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6731,7 +6032,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"https",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6739,7 +6040,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"https",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6747,7 +6048,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "here",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6755,7 +6056,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "here",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6763,7 +6064,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "https",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6771,7 +6072,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "https",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6779,7 +6080,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "reduceComponentsToState",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6787,7 +6088,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "reduceComponentsToState",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6795,7 +6096,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "headManager",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6803,7 +6104,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "headManager",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6811,7 +6112,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "inAmpMode",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6819,7 +6120,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "inAmpMode",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6827,7 +6128,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "value",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -6835,378 +6136,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "value",
       "chunks": [
-        "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\(heb-booking-search-form)\\FacilityDatesMultiSelect.tsx": {
-      "id": "(app-client)/./src/app/(client-components)/(HeroSearchForm)/(heb-booking-search-form)/FacilityDatesMultiSelect.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\(heb-booking-search-form)\\FacilityDatesMultiSelect.tsx#": {
-      "id": "(app-client)/./src/app/(client-components)/(HeroSearchForm)/(heb-booking-search-form)/FacilityDatesMultiSelect.tsx",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\(heb-booking-search-form)\\FacilityDatesMultiSelect.tsx#default": {
-      "id": "(app-client)/./src/app/(client-components)/(HeroSearchForm)/(heb-booking-search-form)/FacilityDatesMultiSelect.tsx",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\ClearDataButton.tsx": {
-      "id": "(app-client)/./src/app/(client-components)/(HeroSearchForm)/ClearDataButton.tsx",
-      "name": "*",
-      "chunks": [
         "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\ClearDataButton.tsx#": {
-      "id": "(app-client)/./src/app/(client-components)/(HeroSearchForm)/ClearDataButton.tsx",
-      "name": "",
-      "chunks": [
-        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\ClearDataButton.tsx#default": {
-      "id": "(app-client)/./src/app/(client-components)/(HeroSearchForm)/ClearDataButton.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\HeroSearchForm.tsx": {
-      "id": "(app-client)/./src/app/(client-components)/(HeroSearchForm)/HeroSearchForm.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\HeroSearchForm.tsx#": {
-      "id": "(app-client)/./src/app/(client-components)/(HeroSearchForm)/HeroSearchForm.tsx",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\HeroSearchForm.tsx#default": {
-      "id": "(app-client)/./src/app/(client-components)/(HeroSearchForm)/HeroSearchForm.tsx",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\PurposeInput.tsx": {
-      "id": "(app-client)/./src/app/(client-components)/(HeroSearchForm)/PurposeInput.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\PurposeInput.tsx#": {
-      "id": "(app-client)/./src/app/(client-components)/(HeroSearchForm)/PurposeInput.tsx",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\PurposeInput.tsx#default": {
-      "id": "(app-client)/./src/app/(client-components)/(HeroSearchForm)/PurposeInput.tsx",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\BtnLikeIcon.tsx": {
-      "id": "(app-client)/./src/components/BtnLikeIcon.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\BtnLikeIcon.tsx#": {
-      "id": "(app-client)/./src/components/BtnLikeIcon.tsx",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\BtnLikeIcon.tsx#default": {
-      "id": "(app-client)/./src/components/BtnLikeIcon.tsx",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\GallerySlider.tsx": {
-      "id": "(app-client)/./src/components/GallerySlider.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\GallerySlider.tsx#": {
-      "id": "(app-client)/./src/components/GallerySlider.tsx",
-      "name": "",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\GallerySlider.tsx#default": {
-      "id": "(app-client)/./src/components/GallerySlider.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\HeaderFilter.tsx": {
-      "id": "(app-client)/./src/components/HeaderFilter.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\HeaderFilter.tsx#": {
-      "id": "(app-client)/./src/components/HeaderFilter.tsx",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\HeaderFilter.tsx#default": {
-      "id": "(app-client)/./src/components/HeaderFilter.tsx",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\SectionSliderNewCategories.tsx": {
-      "id": "(app-client)/./src/components/SectionSliderNewCategories.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\SectionSliderNewCategories.tsx#": {
-      "id": "(app-client)/./src/components/SectionSliderNewCategories.tsx",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\SectionSliderNewCategories.tsx#default": {
-      "id": "(app-client)/./src/components/SectionSliderNewCategories.tsx",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\SectionVideos.tsx": {
-      "id": "(app-client)/./src/components/SectionVideos.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\SectionVideos.tsx#": {
-      "id": "(app-client)/./src/components/SectionVideos.tsx",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\SectionVideos.tsx#default": {
-      "id": "(app-client)/./src/components/SectionVideos.tsx",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\shared\\Button.tsx": {
-      "id": "(app-client)/./src/shared/Button.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\shared\\Button.tsx#": {
-      "id": "(app-client)/./src/shared/Button.tsx",
-      "name": "",
-      "chunks": [
-        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\shared\\Button.tsx#default": {
-      "id": "(app-client)/./src/shared/Button.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\shared\\ButtonSecondary.tsx": {
-      "id": "(app-client)/./src/shared/ButtonSecondary.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\shared\\ButtonSecondary.tsx#": {
-      "id": "(app-client)/./src/shared/ButtonSecondary.tsx",
-      "name": "",
-      "chunks": [
-        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\shared\\ButtonSecondary.tsx#default": {
-      "id": "(app-client)/./src/shared/ButtonSecondary.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\shared\\NavItem.tsx": {
-      "id": "(app-client)/./src/shared/NavItem.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\shared\\NavItem.tsx#": {
-      "id": "(app-client)/./src/shared/NavItem.tsx",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\shared\\NavItem.tsx#default": {
-      "id": "(app-client)/./src/shared/NavItem.tsx",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\node_modules\\rc-slider\\assets\\index.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\globals.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\fonts\\line-awesome-1.3.0\\css\\line-awesome.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\styles\\index.scss#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Poppins\",\"arguments\":[{\"subsets\":[\"latin\"],\"display\":\"swap\",\"weight\":[\"300\",\"400\",\"500\",\"600\",\"700\"]}],\"variableName\":\"poppins\"}#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\logo-light.png": {
-      "id": "(app-client)/./src/images/logo-light.png",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\logo-light.png#": {
-      "id": "(app-client)/./src/images/logo-light.png",
-      "name": "",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\logo-light.png#default": {
-      "id": "(app-client)/./src/images/logo-light.png",
-      "name": "default",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\logo.png": {
-      "id": "(app-client)/./src/images/logo.png",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\logo.png#": {
-      "id": "(app-client)/./src/images/logo.png",
-      "name": "",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\logo.png#default": {
-      "id": "(app-client)/./src/images/logo.png",
-      "name": "default",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
@@ -8002,6 +6932,30 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\shared\\Button.tsx": {
+      "id": "(app-client)/./src/shared/Button.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\shared\\Button.tsx#": {
+      "id": "(app-client)/./src/shared/Button.tsx",
+      "name": "",
+      "chunks": [
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\shared\\Button.tsx#default": {
+      "id": "(app-client)/./src/shared/Button.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+      ],
+      "async": false
+    },
     "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\shared\\Checkbox.tsx": {
       "id": "(app-client)/./src/shared/Checkbox.tsx",
       "name": "*",
@@ -8122,6 +7076,774 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-10.png": {
+      "id": "(app-client)/./src/images/avatars/Image-10.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-10.png#": {
+      "id": "(app-client)/./src/images/avatars/Image-10.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-10.png#default": {
+      "id": "(app-client)/./src/images/avatars/Image-10.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-11.png": {
+      "id": "(app-client)/./src/images/avatars/Image-11.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-11.png#": {
+      "id": "(app-client)/./src/images/avatars/Image-11.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-11.png#default": {
+      "id": "(app-client)/./src/images/avatars/Image-11.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-12.png": {
+      "id": "(app-client)/./src/images/avatars/Image-12.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-12.png#": {
+      "id": "(app-client)/./src/images/avatars/Image-12.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-12.png#default": {
+      "id": "(app-client)/./src/images/avatars/Image-12.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-13.png": {
+      "id": "(app-client)/./src/images/avatars/Image-13.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-13.png#": {
+      "id": "(app-client)/./src/images/avatars/Image-13.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-13.png#default": {
+      "id": "(app-client)/./src/images/avatars/Image-13.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-14.png": {
+      "id": "(app-client)/./src/images/avatars/Image-14.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-14.png#": {
+      "id": "(app-client)/./src/images/avatars/Image-14.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-14.png#default": {
+      "id": "(app-client)/./src/images/avatars/Image-14.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-15.png": {
+      "id": "(app-client)/./src/images/avatars/Image-15.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-15.png#": {
+      "id": "(app-client)/./src/images/avatars/Image-15.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-15.png#default": {
+      "id": "(app-client)/./src/images/avatars/Image-15.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-16.png": {
+      "id": "(app-client)/./src/images/avatars/Image-16.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-16.png#": {
+      "id": "(app-client)/./src/images/avatars/Image-16.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-16.png#default": {
+      "id": "(app-client)/./src/images/avatars/Image-16.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-17.png": {
+      "id": "(app-client)/./src/images/avatars/Image-17.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-17.png#": {
+      "id": "(app-client)/./src/images/avatars/Image-17.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-17.png#default": {
+      "id": "(app-client)/./src/images/avatars/Image-17.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-18.png": {
+      "id": "(app-client)/./src/images/avatars/Image-18.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-18.png#": {
+      "id": "(app-client)/./src/images/avatars/Image-18.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-18.png#default": {
+      "id": "(app-client)/./src/images/avatars/Image-18.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-19.png": {
+      "id": "(app-client)/./src/images/avatars/Image-19.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-19.png#": {
+      "id": "(app-client)/./src/images/avatars/Image-19.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-19.png#default": {
+      "id": "(app-client)/./src/images/avatars/Image-19.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-2.png": {
+      "id": "(app-client)/./src/images/avatars/Image-2.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-2.png#": {
+      "id": "(app-client)/./src/images/avatars/Image-2.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-2.png#default": {
+      "id": "(app-client)/./src/images/avatars/Image-2.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-20.png": {
+      "id": "(app-client)/./src/images/avatars/Image-20.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-20.png#": {
+      "id": "(app-client)/./src/images/avatars/Image-20.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-20.png#default": {
+      "id": "(app-client)/./src/images/avatars/Image-20.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-3.png": {
+      "id": "(app-client)/./src/images/avatars/Image-3.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-3.png#": {
+      "id": "(app-client)/./src/images/avatars/Image-3.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-3.png#default": {
+      "id": "(app-client)/./src/images/avatars/Image-3.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-7.png": {
+      "id": "(app-client)/./src/images/avatars/Image-7.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-7.png#": {
+      "id": "(app-client)/./src/images/avatars/Image-7.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-7.png#default": {
+      "id": "(app-client)/./src/images/avatars/Image-7.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-8.png": {
+      "id": "(app-client)/./src/images/avatars/Image-8.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-8.png#": {
+      "id": "(app-client)/./src/images/avatars/Image-8.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-8.png#default": {
+      "id": "(app-client)/./src/images/avatars/Image-8.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-9.png": {
+      "id": "(app-client)/./src/images/avatars/Image-9.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-9.png#": {
+      "id": "(app-client)/./src/images/avatars/Image-9.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\avatars\\Image-9.png#default": {
+      "id": "(app-client)/./src/images/avatars/Image-9.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\1.png": {
+      "id": "(app-client)/./src/images/cars/1.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\1.png#": {
+      "id": "(app-client)/./src/images/cars/1.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\1.png#default": {
+      "id": "(app-client)/./src/images/cars/1.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\10.png": {
+      "id": "(app-client)/./src/images/cars/10.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\10.png#": {
+      "id": "(app-client)/./src/images/cars/10.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\10.png#default": {
+      "id": "(app-client)/./src/images/cars/10.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\11.png": {
+      "id": "(app-client)/./src/images/cars/11.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\11.png#": {
+      "id": "(app-client)/./src/images/cars/11.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\11.png#default": {
+      "id": "(app-client)/./src/images/cars/11.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\12.png": {
+      "id": "(app-client)/./src/images/cars/12.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\12.png#": {
+      "id": "(app-client)/./src/images/cars/12.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\12.png#default": {
+      "id": "(app-client)/./src/images/cars/12.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\13.png": {
+      "id": "(app-client)/./src/images/cars/13.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\13.png#": {
+      "id": "(app-client)/./src/images/cars/13.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\13.png#default": {
+      "id": "(app-client)/./src/images/cars/13.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\14.png": {
+      "id": "(app-client)/./src/images/cars/14.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\14.png#": {
+      "id": "(app-client)/./src/images/cars/14.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\14.png#default": {
+      "id": "(app-client)/./src/images/cars/14.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\15.png": {
+      "id": "(app-client)/./src/images/cars/15.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\15.png#": {
+      "id": "(app-client)/./src/images/cars/15.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\15.png#default": {
+      "id": "(app-client)/./src/images/cars/15.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\16.png": {
+      "id": "(app-client)/./src/images/cars/16.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\16.png#": {
+      "id": "(app-client)/./src/images/cars/16.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\16.png#default": {
+      "id": "(app-client)/./src/images/cars/16.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\2.png": {
+      "id": "(app-client)/./src/images/cars/2.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\2.png#": {
+      "id": "(app-client)/./src/images/cars/2.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\2.png#default": {
+      "id": "(app-client)/./src/images/cars/2.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\3.png": {
+      "id": "(app-client)/./src/images/cars/3.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\3.png#": {
+      "id": "(app-client)/./src/images/cars/3.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\3.png#default": {
+      "id": "(app-client)/./src/images/cars/3.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\4.png": {
+      "id": "(app-client)/./src/images/cars/4.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\4.png#": {
+      "id": "(app-client)/./src/images/cars/4.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\4.png#default": {
+      "id": "(app-client)/./src/images/cars/4.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\5.png": {
+      "id": "(app-client)/./src/images/cars/5.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\5.png#": {
+      "id": "(app-client)/./src/images/cars/5.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\5.png#default": {
+      "id": "(app-client)/./src/images/cars/5.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\6.png": {
+      "id": "(app-client)/./src/images/cars/6.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\6.png#": {
+      "id": "(app-client)/./src/images/cars/6.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\6.png#default": {
+      "id": "(app-client)/./src/images/cars/6.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\7.png": {
+      "id": "(app-client)/./src/images/cars/7.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\7.png#": {
+      "id": "(app-client)/./src/images/cars/7.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\7.png#default": {
+      "id": "(app-client)/./src/images/cars/7.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\8.png": {
+      "id": "(app-client)/./src/images/cars/8.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\8.png#": {
+      "id": "(app-client)/./src/images/cars/8.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\8.png#default": {
+      "id": "(app-client)/./src/images/cars/8.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\9.png": {
+      "id": "(app-client)/./src/images/cars/9.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\9.png#": {
+      "id": "(app-client)/./src/images/cars/9.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\images\\cars\\9.png#default": {
+      "id": "(app-client)/./src/images/cars/9.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
     "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(available-booking-listings)\\TabFilters.tsx": {
       "id": "(app-client)/./src/app/(available-booking-listings)/TabFilters.tsx",
       "name": "*",
@@ -8167,6 +7889,284 @@ self.__RSC_MANIFEST={
       "name": "default",
       "chunks": [
         "app/(available-booking-listings)/listing-available-booking-map/wedding-package/page:static/chunks/app/(available-booking-listings)/listing-available-booking-map/wedding-package/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\GallerySlider.tsx": {
+      "id": "(app-client)/./src/components/GallerySlider.tsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\GallerySlider.tsx#": {
+      "id": "(app-client)/./src/components/GallerySlider.tsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\GallerySlider.tsx#default": {
+      "id": "(app-client)/./src/components/GallerySlider.tsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\(heb-booking-search-form)\\styles\\layout.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css"
+      ]
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\(heb-booking-search-form)\\styles\\purple.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css"
+      ]
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\(heb-booking-search-form)\\FacilityDatesMultiSelect.tsx": {
+      "id": "(app-client)/./src/app/(client-components)/(HeroSearchForm)/(heb-booking-search-form)/FacilityDatesMultiSelect.tsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\(heb-booking-search-form)\\FacilityDatesMultiSelect.tsx#": {
+      "id": "(app-client)/./src/app/(client-components)/(HeroSearchForm)/(heb-booking-search-form)/FacilityDatesMultiSelect.tsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\(heb-booking-search-form)\\FacilityDatesMultiSelect.tsx#default": {
+      "id": "(app-client)/./src/app/(client-components)/(HeroSearchForm)/(heb-booking-search-form)/FacilityDatesMultiSelect.tsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\ClearDataButton.tsx": {
+      "id": "(app-client)/./src/app/(client-components)/(HeroSearchForm)/ClearDataButton.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\ClearDataButton.tsx#": {
+      "id": "(app-client)/./src/app/(client-components)/(HeroSearchForm)/ClearDataButton.tsx",
+      "name": "",
+      "chunks": [
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\ClearDataButton.tsx#default": {
+      "id": "(app-client)/./src/app/(client-components)/(HeroSearchForm)/ClearDataButton.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\HeroSearchForm.tsx": {
+      "id": "(app-client)/./src/app/(client-components)/(HeroSearchForm)/HeroSearchForm.tsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\HeroSearchForm.tsx#": {
+      "id": "(app-client)/./src/app/(client-components)/(HeroSearchForm)/HeroSearchForm.tsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\HeroSearchForm.tsx#default": {
+      "id": "(app-client)/./src/app/(client-components)/(HeroSearchForm)/HeroSearchForm.tsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\PurposeInput.tsx": {
+      "id": "(app-client)/./src/app/(client-components)/(HeroSearchForm)/PurposeInput.tsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\PurposeInput.tsx#": {
+      "id": "(app-client)/./src/app/(client-components)/(HeroSearchForm)/PurposeInput.tsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(client-components)\\(HeroSearchForm)\\PurposeInput.tsx#default": {
+      "id": "(app-client)/./src/app/(client-components)/(HeroSearchForm)/PurposeInput.tsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\BtnLikeIcon.tsx": {
+      "id": "(app-client)/./src/components/BtnLikeIcon.tsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\BtnLikeIcon.tsx#": {
+      "id": "(app-client)/./src/components/BtnLikeIcon.tsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\BtnLikeIcon.tsx#default": {
+      "id": "(app-client)/./src/components/BtnLikeIcon.tsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\HeaderFilter.tsx": {
+      "id": "(app-client)/./src/components/HeaderFilter.tsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\HeaderFilter.tsx#": {
+      "id": "(app-client)/./src/components/HeaderFilter.tsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\HeaderFilter.tsx#default": {
+      "id": "(app-client)/./src/components/HeaderFilter.tsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\SectionSliderNewCategories.tsx": {
+      "id": "(app-client)/./src/components/SectionSliderNewCategories.tsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\SectionSliderNewCategories.tsx#": {
+      "id": "(app-client)/./src/components/SectionSliderNewCategories.tsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\SectionSliderNewCategories.tsx#default": {
+      "id": "(app-client)/./src/components/SectionSliderNewCategories.tsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\SectionVideos.tsx": {
+      "id": "(app-client)/./src/components/SectionVideos.tsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\SectionVideos.tsx#": {
+      "id": "(app-client)/./src/components/SectionVideos.tsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\SectionVideos.tsx#default": {
+      "id": "(app-client)/./src/components/SectionVideos.tsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\shared\\ButtonSecondary.tsx": {
+      "id": "(app-client)/./src/shared/ButtonSecondary.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\shared\\ButtonSecondary.tsx#": {
+      "id": "(app-client)/./src/shared/ButtonSecondary.tsx",
+      "name": "",
+      "chunks": [
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\shared\\ButtonSecondary.tsx#default": {
+      "id": "(app-client)/./src/shared/ButtonSecondary.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\shared\\NavItem.tsx": {
+      "id": "(app-client)/./src/shared/NavItem.tsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\shared\\NavItem.tsx#": {
+      "id": "(app-client)/./src/shared/NavItem.tsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\shared\\NavItem.tsx#default": {
+      "id": "(app-client)/./src/shared/NavItem.tsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
@@ -8335,126 +8335,6 @@ self.__RSC_MANIFEST={
       "name": "default",
       "chunks": [
         "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(listing-detail)\\SectionDateRange.tsx": {
-      "id": "(app-client)/./src/app/(listing-detail)/SectionDateRange.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(listing-detail)\\SectionDateRange.tsx#": {
-      "id": "(app-client)/./src/app/(listing-detail)/SectionDateRange.tsx",
-      "name": "",
-      "chunks": [
-        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(listing-detail)\\SectionDateRange.tsx#default": {
-      "id": "(app-client)/./src/app/(listing-detail)/SectionDateRange.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(listing-detail)\\listing-experiences-detail\\GuestsInput.tsx": {
-      "id": "(app-client)/./src/app/(listing-detail)/listing-experiences-detail/GuestsInput.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(listing-detail)\\listing-experiences-detail\\GuestsInput.tsx#": {
-      "id": "(app-client)/./src/app/(listing-detail)/listing-experiences-detail/GuestsInput.tsx",
-      "name": "",
-      "chunks": [
-        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(listing-detail)\\listing-experiences-detail\\GuestsInput.tsx#default": {
-      "id": "(app-client)/./src/app/(listing-detail)/listing-experiences-detail/GuestsInput.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(listing-detail)\\listing-experiences-detail\\StayDatesRangeInput.tsx": {
-      "id": "(app-client)/./src/app/(listing-detail)/listing-experiences-detail/StayDatesRangeInput.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(listing-detail)\\listing-experiences-detail\\StayDatesRangeInput.tsx#": {
-      "id": "(app-client)/./src/app/(listing-detail)/listing-experiences-detail/StayDatesRangeInput.tsx",
-      "name": "",
-      "chunks": [
-        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(listing-detail)\\listing-experiences-detail\\StayDatesRangeInput.tsx#default": {
-      "id": "(app-client)/./src/app/(listing-detail)/listing-experiences-detail/StayDatesRangeInput.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(listing-detail)\\listing-experiences-detail\\page.tsx": {
-      "id": "(app-client)/./src/app/(listing-detail)/listing-experiences-detail/page.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(listing-detail)\\listing-experiences-detail\\page.tsx#": {
-      "id": "(app-client)/./src/app/(listing-detail)/listing-experiences-detail/page.tsx",
-      "name": "",
-      "chunks": [
-        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(listing-detail)\\listing-experiences-detail\\page.tsx#default": {
-      "id": "(app-client)/./src/app/(listing-detail)/listing-experiences-detail/page.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\FiveStartIconForRate.tsx": {
-      "id": "(app-client)/./src/components/FiveStartIconForRate.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\FiveStartIconForRate.tsx#": {
-      "id": "(app-client)/./src/components/FiveStartIconForRate.tsx",
-      "name": "",
-      "chunks": [
-        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\FiveStartIconForRate.tsx#default": {
-      "id": "(app-client)/./src/components/FiveStartIconForRate.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     },
@@ -8671,6 +8551,126 @@ self.__RSC_MANIFEST={
       "name": "default",
       "chunks": [
         "app/(listing-detail)/layout:static/chunks/app/(listing-detail)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(listing-detail)\\SectionDateRange.tsx": {
+      "id": "(app-client)/./src/app/(listing-detail)/SectionDateRange.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(listing-detail)\\SectionDateRange.tsx#": {
+      "id": "(app-client)/./src/app/(listing-detail)/SectionDateRange.tsx",
+      "name": "",
+      "chunks": [
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(listing-detail)\\SectionDateRange.tsx#default": {
+      "id": "(app-client)/./src/app/(listing-detail)/SectionDateRange.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(listing-detail)\\listing-experiences-detail\\GuestsInput.tsx": {
+      "id": "(app-client)/./src/app/(listing-detail)/listing-experiences-detail/GuestsInput.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(listing-detail)\\listing-experiences-detail\\GuestsInput.tsx#": {
+      "id": "(app-client)/./src/app/(listing-detail)/listing-experiences-detail/GuestsInput.tsx",
+      "name": "",
+      "chunks": [
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(listing-detail)\\listing-experiences-detail\\GuestsInput.tsx#default": {
+      "id": "(app-client)/./src/app/(listing-detail)/listing-experiences-detail/GuestsInput.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(listing-detail)\\listing-experiences-detail\\StayDatesRangeInput.tsx": {
+      "id": "(app-client)/./src/app/(listing-detail)/listing-experiences-detail/StayDatesRangeInput.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(listing-detail)\\listing-experiences-detail\\StayDatesRangeInput.tsx#": {
+      "id": "(app-client)/./src/app/(listing-detail)/listing-experiences-detail/StayDatesRangeInput.tsx",
+      "name": "",
+      "chunks": [
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(listing-detail)\\listing-experiences-detail\\StayDatesRangeInput.tsx#default": {
+      "id": "(app-client)/./src/app/(listing-detail)/listing-experiences-detail/StayDatesRangeInput.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(listing-detail)\\listing-experiences-detail\\page.tsx": {
+      "id": "(app-client)/./src/app/(listing-detail)/listing-experiences-detail/page.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(listing-detail)\\listing-experiences-detail\\page.tsx#": {
+      "id": "(app-client)/./src/app/(listing-detail)/listing-experiences-detail/page.tsx",
+      "name": "",
+      "chunks": [
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\app\\(listing-detail)\\listing-experiences-detail\\page.tsx#default": {
+      "id": "(app-client)/./src/app/(listing-detail)/listing-experiences-detail/page.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\FiveStartIconForRate.tsx": {
+      "id": "(app-client)/./src/components/FiveStartIconForRate.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\FiveStartIconForRate.tsx#": {
+      "id": "(app-client)/./src/components/FiveStartIconForRate.tsx",
+      "name": "",
+      "chunks": [
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Guo Chen\\Desktop\\nus\\capstone project\\code\\venue\\customer_portal\\src\\components\\FiveStartIconForRate.tsx#default": {
+      "id": "(app-client)/./src/components/FiveStartIconForRate.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(listing-detail)/listing-experiences-detail/page:static/chunks/app/(listing-detail)/listing-experiences-detail/page.js"
       ],
       "async": false
     }
