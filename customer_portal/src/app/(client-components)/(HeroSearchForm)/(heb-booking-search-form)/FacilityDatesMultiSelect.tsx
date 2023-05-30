@@ -21,7 +21,7 @@ export interface FacilityDatesMultiSelectProps {
 const FacilityDatesMultiSelect: FC<FacilityDatesMultiSelectProps> = ({
   className = "[ lg:nc-flex-2 ]",
   fieldClassName = "[ nc-hero-field-padding ]",
-  buttonSubmitHref = "/listing-available-booking-map",
+  buttonSubmitHref = "/list-available-booking",
   hasButtonSubmit = true,
   purposeInputValue
 }) => {
