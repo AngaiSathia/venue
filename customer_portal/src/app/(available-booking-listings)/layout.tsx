@@ -4,7 +4,10 @@ import ListingImageGallery from "@/components/listing-image-gallery/ListingImage
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import React, { ReactNode } from "react";
 import MobileFooterSticky from "../(listing-detail)/(components)/MobileFooterSticky";
-import { imageGallery as listingWeddingImageGallery } from "./listing-available-booking-map/wedding-package/constant";
+import { imageGallery as listingWeddingImageGallery } from "./list-available-booking/wedding-package/constant";
+import { imageGallery as listingReligiousLecturesImageGallery } from "./list-available-booking/religious-lectures/constant";
+import { imageGallery as listingFunctionRoomImageGallery } from "./list-available-booking/function-room/constant";
+import { imageGallery as listingDiningHallImageGallery } from "./list-available-booking/dining-hall/constant";
 import { Route } from "next";
 
 const ListingLayout = ({ children }: { children: ReactNode }) => {
@@ -23,7 +26,15 @@ const ListingLayout = ({ children }: { children: ReactNode }) => {
     if (thisPathname.includes("/wedding-package")) {
       return listingWeddingImageGallery;
     }
-
+    if (thisPathname.includes("/religious-lectures")) {
+      return listingReligiousLecturesImageGallery;
+    }
+    if (thisPathname.includes("/function-room")) {
+      return listingFunctionRoomImageGallery;
+    }
+    if (thisPathname.includes("/dining-hall")) {
+      return listingDiningHallImageGallery;
+    }
     return [];
   };
 

@@ -69,7 +69,7 @@ const SectionGridFilterCard: FC<SectionGridFilterCardProps> = ({
       <Heading2
         heading="Venues Available"
         subHeading={
-          <span className="block text-neutral-500 dark:text-neutral-400 mt-3">
+          <span className="block text-neutral-500 dark:text-neutral-400 mt-4">
             {purpose}
             <span className="mx-2">·</span>
             {data.length} results found
