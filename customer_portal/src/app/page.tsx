@@ -13,32 +13,35 @@ import SectionGridCategoryBox from "@/components/SectionGridCategoryBox";
 import SectionBecomeAnAuthor from "@/components/SectionBecomeAnAuthor";
 import SectionVideos from "@/components/SectionVideos";
 import SectionClientSay from "@/components/SectionClientSay";
-import MariammanTemplePic from "@/images/heb/sri mariamman temple.png";
-import SrinivasaTemplePic from "@/images/heb/sri srinivasa perumal temple.png";
-import SriSivanTemplePic from "@/images/heb/sri sivan temple.png";
-import SriVairavimadaKaliammanTemplePic from "@/images/heb/sri vairavimada kaliamman temple.png";
 
 const HEB_TEMPLE: TaxonomyType[] = [
   {
     id: "1",
-    href: "http://localhost:4999/listing-detail?location=temple1&event=wedding&startdate=2023-05-05",
+    href: "/listing-stay-map",
     name: "Sri Mariamman Temple",
     taxonomy: "category",
-    thumbnail: "http://localhost:4999/images/temple1/01.png",
+    thumbnail: "/images/heb/sri mariamman temple.png",
   },
   {
     id: "2",
-    href: "http://localhost:4999/images/temple1/02.png",
+    href: "/listing-stay-map",
     name: "Sri Srinivasa Perumal Temple",
     taxonomy: "category",
-    thumbnail: "http://localhost:4999/images/temple1/02.png",
+    thumbnail: "/images/heb/sri srinivasa perumal temple.png",
   },
   {
     id: "3",
-    href: "http://localhost:4999/images/temple1/03.png",
+    href: "/listing-stay-map",
     name: "Sri Sivan Temple",
     taxonomy: "category",
-    thumbnail: "http://localhost:4999/images/temple1/03.png",
+    thumbnail: "/images/heb/sri sivan temple.png",
+  },
+  {
+    id: "4",
+    href: "/listing-stay-map",
+    name: "Sri Vairavimada Kaliamman Temple",
+    taxonomy: "category",
+    thumbnail: "/images/heb/sri vairavimada kaliamman temple.png",
   },
 ];
 
@@ -119,16 +122,12 @@ function PageHome() {
         <SectionHero className="pt-10 lg:pt-16 lg:pb-16" />
 
         {/* SECTION 1 */}
-        <SectionSliderNewCategories
-          heading="Hindu Endowments Board Temple"
-          subHeading="Temple providing facilities for you"
-          itemPerRow={4}
-          categories={HEB_TEMPLE}
-        />
+        <SectionSliderNewCategories heading="Hindu Endowments Board Temple" 
+          subHeading="Temple providing facilities for you" itemPerRow={4} categories={HEB_TEMPLE} />
 
         {/*<SectionOurFeatures />*/}
 
-        {/*<SectionGridFeaturePlaces cardType="card2" />*/}
+        <SectionGridFeaturePlaces cardType="card2" />
 
         {/*<SectionHowItWork />*/}
 
@@ -156,7 +155,7 @@ function PageHome() {
           <SectionBecomeAnAuthor />
         </div>*/}
 
-        {/*<SectionGridCategoryBox />*/}
+        <SectionGridCategoryBox />
 
         {/*<SectionSliderNewCategories
           heading="Explore by types of stays"
@@ -165,7 +164,7 @@ function PageHome() {
           itemPerRow={5}
         />*/}
 
-        {/*<SectionVideos />*/}
+        <SectionVideos />
 
         {/*<div className="relative py-16">
           <BackgroundSection />

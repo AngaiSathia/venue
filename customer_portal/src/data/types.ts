@@ -115,6 +115,22 @@ export interface ExperiencesDataType {
   };
 }
 
+export interface HEBVenueBookingDataType {
+  id: string | number;
+  availableDates: string[];
+  href: Route<string>;
+  venueName: string;
+  featuredImage: StaticImageData | string;
+  temple: string;
+  templeAbrev: string;
+  address: string;
+  galleryImgs: (StaticImageData | string)[];
+  map: {
+    lat: number;
+    lng: number;
+  };
+}
+
 //
 export interface CarDataType {
   id: string | number;

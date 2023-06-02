@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="logos">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/customer_portal/src/images/logos/nomal.zip!/" />
+      <root url="jar://$PROJECT_DIR$/customer_portal/src/images/logos/dark.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
