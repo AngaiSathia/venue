@@ -4,7 +4,7 @@ import React, { FC, Fragment, useEffect, useState } from "react";
 import { v4 as uuid } from "uuid";
 import useBookingStore from "@/app/store/bookingSlice";
 import {
-  Progress,
+  Show,
   Box,
   ButtonGroup,
   Button,
@@ -20,22 +20,36 @@ import {
   InputGroup,
   Textarea,
   FormHelperText,
-  InputRightElement,
-  Stack,
-  Checkbox,
   Center,
+  Step,
+  StepDescription,
+  StepIcon,
+  StepIndicator,
+  StepNumber,
+  StepSeparator,
+  StepStatus,
+  StepTitle,
+  Stepper,
+  useSteps,
 } from "@chakra-ui/react";
 
 import { useToast } from "@chakra-ui/react";
 import { Booking } from "@/app/store/models/booking";
 import Label from "@/components/Label";
+import CheckOutDateTable from "@/app/checkout/components/CheckOutDateTable";
+import ApplicantCheckOutForm from "@/app/checkout/components/ApplicantCheckOutForm";
 
 interface bookingInfo {
   booking: Booking;
   description: string;
 }
 
-const Form1 = () => {
+interface FormProps {
+  setActiveStep: React.SetStateAction<boolean>;
+  activeStep: number;
+}
+
+const Form1: FC<FormProps> = ({ setActiveStep, activeStep }) => {
   const selecteddates = useBookingStore((state) => state.bookings);
   const eventType = useBookingStore((state) => state.eventType);
   const [bookings, setBookings] = useState<Booking[]>([]);
@@ -62,17 +76,30 @@ const Form1 = () => {
     setCheckedState(updatedCheckedState);
   };
 
-  useEffect(() => {
-    if (eventType === "Wedding") {
-      setMaxDates(2);
+  const setEventMaxBookings = () => {
+    switch (eventType) {
+      case "Wedding":
+        setMaxDates(2);
+        break;
+
+      default:
+        setMaxDates(1);
     }
+  };
+
+  useEffect(() => {
+    setEventMaxBookings();
   }, []);
 
   useEffect(() => {
     let bookings: bookingInfo[] = [];
     let checkedStates: boolean[] = [];
 
-    selecteddates.map((booking) => {
+    let sortedSelectedDates = selecteddates.sort((booking1, booking2) =>
+      booking1.bookdate > booking2.bookdate ? 1 : -1
+    );
+
+    sortedSelectedDates.map((booking) => {
       booking.am_avail &&
         bookings.push({ booking, description: "0800 to 1230 hrs" }) &&
         checkedStates.push(false);
@@ -87,11 +114,9 @@ const Form1 = () => {
 
   return (
     <>
-      <Heading w="100%" textAlign={"center"} fontWeight="normal" mb="2%">
-        Time Slots Selection
-      </Heading>
       <Center>
-        <Flex direction="column">
+        <CheckOutDateTable />
+        {/*<Flex direction="column">
           {bookingsInfo.map((booking, index) => {
             return (
               <Checkbox
@@ -104,13 +129,37 @@ const Form1 = () => {
               </Checkbox>
             );
           })}
-        </Flex>
+        </Flex>*/}
       </Center>
-      <FormControl>
-        <FormHelperText>
-          You can only select up to {maxDates} slots.
-        </FormHelperText>
-      </FormControl>
+      <ButtonGroup mt="5%" w="100%">
+        <Flex w="100%" justifyContent="space-between">
+          <Flex>
+            <Button
+              onClick={() => {
+                setActiveStep(activeStep - 1);
+              }}
+              isDisabled={activeStep === 1}
+              /*colorScheme="teal"*/
+              variant="outline"
+              w="7rem"
+              mr="5%"
+            >
+              Back
+            </Button>
+            <Button
+              w="7rem"
+              isDisabled={activeStep === 3}
+              onClick={() => {
+                setActiveStep(activeStep + 1);
+              }}
+              colorScheme="teal"
+              variant="outline"
+            >
+              Next
+            </Button>
+          </Flex>
+        </Flex>
+      </ButtonGroup>
     </>
   );
 };
@@ -257,7 +306,7 @@ const Form2 = () => {
   );
 };
 
-const Form3 = () => {
+const Form3: FC<FormProps> = ({ setActiveStep, activeStep }) => {
   return (
     <>
       <Heading w="100%" textAlign={"center"} fontWeight="normal">
@@ -320,16 +369,55 @@ const Form3 = () => {
           </FormHelperText>
         </FormControl>
       </SimpleGrid>
+      <ButtonGroup mt="5%" w="100%">
+        <Flex w="100%" justifyContent="space-between">
+          <Flex>
+            <Button
+              onClick={() => {
+                setActiveStep(activeStep - 1);
+              }}
+              isDisabled={activeStep === 1}
+              /*colorScheme="teal"*/
+              variant="outline"
+              w="7rem"
+              mr="5%"
+            >
+              Back
+            </Button>
+            <Button
+              w="7rem"
+              isDisabled={activeStep === 3}
+              onClick={() => {
+                isValid ? setActiveStep(activeStep + 1) : null;
+              }}
+              type="submit"
+              colorScheme="teal"
+              variant="outline"
+            >
+              Next
+            </Button>
+          </Flex>
+        </Flex>
+      </ButtonGroup>
     </>
   );
 };
 
-export interface CheckOutPagePageMainProps {}
+export interface CheckOutPageMainProps {}
 
-const CheckOutPagePageMain: FC<CheckOutPagePageMainProps> = ({}) => {
+const CheckOutPageMain: FC<CheckOutPageMainProps> = ({}) => {
   const toast = useToast();
-  const [step, setStep] = useState(1);
-  const [progress, setProgress] = useState(33.33);
+
+  const steps = [
+    { title: "Select Dates" },
+    { title: "Personal Info" },
+    { title: "Booking Summary" },
+  ];
+
+  const { activeStep, setActiveStep } = useSteps({
+    index: 1,
+    count: steps.length,
+  });
 
   return (
     <>
@@ -342,70 +430,62 @@ const CheckOutPagePageMain: FC<CheckOutPagePageMainProps> = ({}) => {
         m="20px auto"
         as="form"
       >
-        <Progress
-          hasStripe
-          value={progress}
-          mb="5%"
-          mx="5%"
-          isAnimated
-        ></Progress>
-        {step === 1 ? <Form1 /> : step === 2 ? <Form2 /> : <Form3 />}
-        <ButtonGroup mt="5%" w="100%">
-          <Flex w="100%" justifyContent="space-between">
-            <Flex>
-              <Button
-                onClick={() => {
-                  setStep(step - 1);
-                  setProgress(progress - 33.33);
-                }}
-                isDisabled={step === 1}
-                /*colorScheme="teal"*/
-                variant="outline"
-                w="7rem"
-                mr="5%"
-              >
-                Back
-              </Button>
-              <Button
-                w="7rem"
-                isDisabled={step === 3}
-                onClick={() => {
-                  setStep(step + 1);
-                  if (step === 3) {
-                    setProgress(100);
-                  } else {
-                    setProgress(progress + 33.33);
-                  }
-                }}
-                colorScheme="teal"
-                variant="outline"
-              >
-                Next
-              </Button>
-            </Flex>
-            {step === 3 ? (
-              <Button
-                w="7rem"
-                colorScheme="red"
-                variant="solid"
-                onClick={() => {
-                  toast({
-                    title: "Account created.",
-                    description: "We've created your account for you.",
-                    status: "success",
-                    duration: 3000,
-                    isClosable: true,
-                  });
-                }}
-              >
-                Submit
-              </Button>
-            ) : null}
-          </Flex>
-        </ButtonGroup>
+        <Show breakpoint="(max-width: 580px)">
+          <Stepper index={activeStep} orientation="vertical" pb="20px">
+            {steps.map((step, index) => (
+              <Step key={index}>
+                <StepIndicator>
+                  <StepStatus
+                    complete={<StepIcon />}
+                    incomplete={<StepNumber />}
+                    active={<StepNumber />}
+                  />
+                </StepIndicator>
+
+                <Box flexShrink="0">
+                  <StepTitle>{step.title}</StepTitle>
+                </Box>
+                <StepSeparator />
+              </Step>
+            ))}
+          </Stepper>
+        </Show>
+
+        <Show breakpoint="(min-width: 580px)">
+          <Stepper index={activeStep} height="auto" pb="20px">
+            {steps.map((step, index) => (
+              <Step key={index}>
+                <StepIndicator>
+                  <StepStatus
+                    complete={<StepIcon />}
+                    incomplete={<StepNumber />}
+                    active={<StepNumber />}
+                  />
+                </StepIndicator>
+
+                <Box flexShrink="0">
+                  <StepTitle>{step.title}</StepTitle>
+                </Box>
+
+                <StepSeparator />
+              </Step>
+            ))}
+          </Stepper>
+        </Show>
+
+        {activeStep === 1 ? (
+          <Form1 setActiveStep={setActiveStep} activeStep={activeStep} />
+        ) : activeStep === 2 ? (
+          <ApplicantCheckOutForm
+            setActiveStep={setActiveStep}
+            activeStep={activeStep}
+          />
+        ) : (
+          <Form3 setActiveStep={setActiveStep} activeStep={activeStep} />
+        )}
       </Box>
     </>
   );
 };
 
-export default CheckOutPagePageMain;
+export default CheckOutPageMain;

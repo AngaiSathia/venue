@@ -8,6 +8,7 @@ import bookingSlice from "@/app/store/bookingSlice";
 import useBookingStore from "@/app/store/bookingSlice";
 import { state } from "sucrase/dist/types/parser/traverser/base";
 import { compileString } from "sass";
+import * as process from "process";
 
 //import DatePickerCustomHeaderTwoMonth from "@/components/DatePickerCustomHeaderTwoMonth";
 //import DatePickerCustomDay from "@/components/DatePickerCustomDay";
@@ -117,6 +118,8 @@ const SectionDateRange = () => {
       });
     }
 
+    if (clickdate === undefined) return;
+
     const parsedDates = props.map(toDateObject);
 
     if (bookings.length) {
@@ -162,8 +165,6 @@ const SectionDateRange = () => {
       addBooking(clickdate, amIsOpen, pmIsOpen);
     }
   };
-
-  const updateColor = (date: DateObject) => {};
 
   useEffect(() => {
     fetch(`http://localhost:5000/bookings?year=${year}&month=${month}`)
@@ -272,7 +273,6 @@ const SectionDateRange = () => {
           <Calendar
             value={...parsedExistingBookings}
             currentDate={new DateObject()}
-            onChange={updateColor}
             onMonthChange={updateMonth}
             onYearChange={updateYear}
             onFocusedDateChange={updateBookings}
